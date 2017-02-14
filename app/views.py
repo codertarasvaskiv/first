@@ -6,6 +6,7 @@ import datetime
 
 
 def index(request):
+    # some new info to test git
     # number = Number.objects.get(number=3)
     # timed = TimeDate()
     # timed.time = timezone.now()
